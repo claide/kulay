@@ -1,8 +1,26 @@
 {
     "name": "kulay",
     "displayName": "Kulay",
-    "description": "Kulay dark color theme",
+    "description": "A dark theme made by Francis Magallen",
     "version": "0.0.1",
+    "publisher": "claide",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/claide/kulay"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Cool Theme"
+    ],
+    "scripts": {
+        "publish": "vsce publish"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#7278da",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.46.0"
     },
