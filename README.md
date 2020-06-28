@@ -1,3 +1,7 @@
+# Kulay Dark 🦹‍♂️
+
+![Screen Preview](React.png)
+
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
