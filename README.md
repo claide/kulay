@@ -9,4 +9,4 @@
 
 ## Contributing
 
-Feel free to contribute. Report issues and help make changes.
+Feel free to contribute. Report issues found and help make changes.
