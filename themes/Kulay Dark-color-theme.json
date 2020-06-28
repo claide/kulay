@@ -11,6 +11,9 @@
 		"selection.background": "#7278da",
 		"textLink.foreground": "#00B0D5",
 		"editor.selectionHighlightBackground": "#72767d83",
+		"debugConsole.errorForeground": "#F04747",
+		"diffEditor.removedTextBackground": "#f047474d",
+		"diffEditor.insertedTextBackground": "#43b5821e",
 		// buttons
 		"button.background": "#7278dacc",
 		"button.foreground": "#ffffffcc",
@@ -76,6 +79,7 @@
 		"sideBar.foreground": "#B9BBBE",
 		"sideBarTitle.foreground": "#B9BBBE",
 		"sideBarSectionHeader.background": "#292B2F",
+		"sideBarSectionHeader.border": "#292B2F",
 		// lists
 		"list.hoverBackground": "#34373C",
 		"list.inactiveSelectionBackground": "#34373C",
@@ -93,7 +97,7 @@
 		"tab.inactiveForeground": "#B9BBBE",
 		"tab.border": "#2F3136",
 		// peekview
-		"peekView.border": "#72767D",
+		"peekView.border": "#4F545C",
 		"peekViewEditor.background": "#202225",
 		"peekViewEditor.matchHighlightBackground": "#7278da5a",
 		"peekViewResult.background": "#202225",
@@ -225,7 +229,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#BBBBBB"
+				"foreground": "#B9BBBE"
 			}
 		},
 		{
@@ -312,7 +316,7 @@
 			"name": "CSS property names",
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#BBBBBB"
+				"foreground": "#B9BBBE"
 			}
 		},
 		{
@@ -336,7 +340,7 @@
 			"name": "Embedded template punctuation",
 			"scope": "string.template meta.embedded",
 			"settings": {
-				"foreground": "#BBBBBB"
+				"foreground": "#B9BBBE"
 			}
 		},
 		{
@@ -436,7 +440,7 @@
 			"name": "Key/value separators",
 			"scope": "punctuation.separator",
 			"settings": {
-				"foreground": "#BBBBBB"
+				"foreground": "#B9BBBE"
 			}
 		},
 		{
