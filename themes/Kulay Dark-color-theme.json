@@ -432,7 +432,7 @@
 			"name": "Tag brackets",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#E95678B3",
+				"foreground": "#B9BBBE",
 				"fontStyle": ""
 			}
 		},
