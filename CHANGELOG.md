@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] - 2020-09-14
 ### Changed
 - Fix ansi blue terminal color
+- Change color value for cyan
 
 ## [0.1.0] - 2020-07-28
 ### Changed
