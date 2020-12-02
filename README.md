@@ -2,6 +2,10 @@
 
 ![Screen Preview](React.png)
 
+# Kulay Light 🌅
+
+![Screen Preview](React-Light.png)
+
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
@@ -18,7 +22,7 @@ Below is my settings recommendations.
 {
   "editor.fontLigatures": true,
   "editor.fontWeight": "400",
-  "editor.fontSize": 18,
+  "editor.fontSize": 16,
   "explorer.openEditors.visible": 0,
   "terminal.integrated.showExitAlert": false,
   "workbench.tree.renderIndentGuides": "onHover",
