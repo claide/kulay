@@ -1,8 +1,8 @@
 {
     "name": "kulay",
-    "displayName": "Kulay",
-    "description": "Your simple code theme. Kulay Light for daytime use is now being added.",
-    "version": "1.0.0",
+    "displayName": "Kulay Dark",
+    "description": "Your simple dark theme.",
+    "version": "0.4.0",
     "publisher": "claide",
     "repository": {
         "type": "git",
@@ -12,8 +12,7 @@
         "Theme",
         "Dark Theme",
         "Light Theme",
-        "Cool Theme",
-        "Accessible Theme"
+        "Cool Theme"
     ],
     "scripts": {
         "publish": "vsce publish"

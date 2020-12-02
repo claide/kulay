@@ -7,9 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Changed
+## [0.3.0] - 2020-12-02
+### Added
+- Introducing the new Kulay Light for daytime use
 
 ## [0.3.0] - 2020-11-16
+### Changed
 - Improve colors readability
 - Adjust editor background color
 
